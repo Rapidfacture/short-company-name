@@ -1,0 +1,17 @@
+{
+  "name": "short-company-name",
+  "version": "0.0.1",
+  "description": "Shorten company names",
+  "main": "index.js",
+  "keywords": [
+    "name",
+    "company",
+    "shorten",
+    "shorthand"
+  ],
+  "author": "Rapidfacture GmbH",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "hyphenator": "0.0.3"
+  }
+}
