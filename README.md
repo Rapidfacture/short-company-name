@@ -113,7 +113,9 @@ Technische UH.
 
 ```
 
+## testing
 
+> npm test
 
 ## ideas for principles
 * remove names, that are not memorable: group, groups, GmbH
