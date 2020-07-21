@@ -1,6 +1,6 @@
 {
   "name": "short-company-name",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shorten company names",
   "main": "index.js",
   "keywords": [
@@ -12,9 +12,9 @@
   "author": "Rapidfacture GmbH",
   "license": "Apache-2.0",
   "dependencies": {
-
+    "underscore": "1.6.0"
   },
   "scripts": {
-     "test": "node test.js"
- }
+    "test": "node test.js"
+  }
 }
